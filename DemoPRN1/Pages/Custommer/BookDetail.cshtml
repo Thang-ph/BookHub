@@ -1,0 +1,258 @@
+﻿@page
+@model DemoPRN1.Pages.Custommer.BookDetailModel
+@{
+	Layout = "/Pages/Shared/_LayoutUser.cshtml";
+}
+
+
+
+<style>
+	.col-md-3 {
+		display: flex;
+	}
+
+	.card-product-grid {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		height: 100%;
+		width: 100%;
+	}
+
+	.img-wrap img {
+		width: 100%;
+		height: auto;
+	}
+
+	.info-wrap {
+		flex-grow: 1;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	}
+
+	.title {
+		min-height: 50px;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		display: -webkit-box;
+		-webkit-box-orient: vertical;
+		-webkit-line-clamp: 2;
+	}
+
+	.price-wrap {
+		margin-top: auto;
+	}
+
+	.button-row {
+		display: flex;
+		gap: 10px;
+	}
+
+		.button-row form {
+			flex: 1;
+		}
+
+		.button-row .btn {
+			width: 100%;
+		}
+
+</style>
+
+
+<style>
+	body {
+		font-family: Arial, sans-serif;
+	}
+
+	.comment-section {
+		width: 50%;
+		margin: 0 auto;
+	}
+
+	.comment {
+		padding: 10px;
+		border: 1px solid #ccc;
+		border-radius: 5px;
+		margin-bottom: 10px;
+	}
+
+	.comment-author {
+		font-weight: bold;
+	}
+
+	.comment-date {
+		font-size: 0.9em;
+		color: gray;
+	}
+
+	.comment-text {
+		margin-top: 5px;
+	}
+
+	.comment-form {
+		margin-top: 20px;
+	}
+
+		.comment-form textarea {
+			width: 100%;
+			padding: 10px;
+			resize: none;
+			height: 80px;
+			margin-top: 10px;
+			margin-bottom: 10px;
+		}
+
+		.comment-form input[type="submit"] {
+			padding: 10px 20px;
+			
+			color: white;
+			border: none;
+			border-radius: 5px;
+			cursor: pointer;
+		}
+
+		.comment-form input[type="submit"]:hover {
+			background-color: #45a049;
+		}
+
+		.bookStoreWrapper {
+			margin-bottom: 36px;
+		}
+
+</style>
+
+
+	<section id="book-detail" style="padding-bottom: 0;" class="leaf-pattern-overlay">
+		<div class="corner-pattern-overlay"></div>
+		<div class="container">
+			<div class="row justify-content-center">
+
+				<div class="col-md-8">
+
+					<div class="row">
+
+						<div class="col-md-6">
+							<figure class="products-thumb">
+								<img src="@Url.Content(Model.currentBook.Image)" alt="book" class="single-image">
+							</figure>
+						</div>
+
+						<div class="col-md-6">
+							<div class="product-entry">
+								<h2 class="section-title divider">Best Selling Book</h2>
+
+								<div class="products-content">
+									<div class="author-name">By @Model.currentBook.Author</div>
+									<h3 class="item-title">@Model.currentBook.BookTitle</h3>
+									<p>
+										@Model.currentBook.Description
+									</p>
+									<a asp-page="/Custommer/ListBookByBookstore"
+									   asp-route-bookStoreId="@Model.currentBook.BookStoreId"
+									   asp-route-bookStoreId="@Model.currentBook.BookStore.StoreName"
+									   class="author-name bookStoreWrapper">
+										@Model.currentBook.BookStore.StoreName
+									</a>
+									<div class="item-price">
+										@String.Format("{0:N0} đ", Model.currentBook.Price)
+									</div>
+									<div class="btn-wrap">
+										<div class="button-row">
+<form method="post" asp-page-handler="AddToCart"> <input type="hidden" name="bookId" value="@Model.currentBook.BookId" />
+									
+											<input type="hidden" name="type" value="buy" />
+											<button type="submit" class="btn btn-block btn-primary">Buy</button>
+										</form>
+
+										<form method="post" asp-page-handler="AddToCart">
+											<input type="hidden" name="bookId" value="@Model.currentBook.BookId" />
+											<input type="hidden" name="type" value="rent" />
+											<button style="background-color:indianred" type="submit" class="btn btn-block btn-primary">Rent</button>
+										</form>
+										</div>
+
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+					<!-- / row -->
+
+				</div>
+
+			</div>
+		</div>
+	</section>
+
+<div class="comment-section">
+	<h2>Comments</h2>
+	@if (Model.bookRatings.Count() > 0)
+	{
+
+		@foreach (var comment in Model.bookRatings)
+		{
+			<!-- Existing comments -->
+			<div class="comment">
+				<div class="comment-author">@comment.Account.FullName</div>
+				<div class="comment-text">@comment.Comment</div>
+			</div>
+		}
+
+	}
+	
+
+
+	<!-- Comment form -->
+	<div class="comment-form">
+		<h3>Leave a Comment</h3>
+		<form  method="POST" asp-page-handler="AddComment">
+			<textarea name="comment" placeholder="Write your comment here..." required></textarea>
+			<input name="bookId" type="hidden" value="@Model.currentBook.BookId" />
+			<input name="accountId" type="hidden" value="@Model.accountId" />
+
+			<input type="submit" value="Post Comment">
+		</form>
+	</div>
+</div>
+
+
+
+<section id="special-offer" class="bookshelf pb-5 mb-5">
+
+		<div class="section-header align-center">
+			<div class="title">
+				<span>Grab your opportunity</span>
+			</div>
+			<h2 class="section-title">Related Books</h2>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="inner-content">
+					<div class="product-list" data-aos="fade-up">
+						<div class="grid product-grid">
+
+							@foreach(var book in Model.recomendBooks)
+							{
+							<div class="product-item">
+								<figure class="product-style">
+										<img src="@Url.Content(@book.Image)" alt="Books" class="product-item">
+									<a href="@Url.Page("/Custommer/BookDetail", new { bookId = book.BookId }) @(book.BookTitle.Length > 25 ? book.BookTitle[..25] + "..." : book.BookTitle)" class="btn add-to-cart">View Detail</a>
+									</figure>
+								<figcaption>
+									<h3>@book.BookTitle</h3>
+									<span>@book.Author</span>
+									<div class="item-price">
+											<span class="">@String.Format("{0:N0} đ", book.Price)</span>
+									</div>
+								</figcaption>
+							</div>
+							}
+						</div><!--grid-->
+					</div>
+				</div><!--inner-content-->
+			</div>
+		</div>
+	</section>

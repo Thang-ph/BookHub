@@ -1,0 +1,80 @@
+﻿@page
+@model DemoPRN1.Pages.Books.CreateModel
+
+<div class="container-fluid">
+    <h2>Thêm Sách Mới</h2>
+
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="newBook.BookTitle"></label>
+            <input asp-for="newBook.BookTitle" class="form-control" />
+            <span asp-validation-for="newBook.BookTitle" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="newBook.Author"></label>
+            <input asp-for="newBook.Author" class="form-control" />
+            <span asp-validation-for="newBook.Author" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="newBook.Description"></label>
+            <textarea asp-for="newBook.Description" class="form-control"></textarea>
+            <span asp-validation-for="newBook.Description" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="newBook.CategoryId"></label>
+            <select asp-for="newBook.CategoryId" class="form-control">
+                <option value="">Chọn Thể Loại</option>
+                @foreach (var category in Model.Categories)
+                {
+                    <option value="@category.CategoryId">@category.CategoryName</option>
+                }
+            </select>
+            <span asp-validation-for="newBook.CategoryId" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ImageFile">Choose from file</label>
+            <input asp-for="ImageFile" class="form-control" type="file" />
+            <span asp-validation-for="ImageFile" class="text-danger"></span>
+        </div>
+
+
+        <div class="form-group">
+            <label asp-for="newBook.Price"></label>
+            <input asp-for="newBook.Price" class="form-control" />
+            <span asp-validation-for="newBook.Price" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="newBook.Quantity"></label>
+            <input asp-for="newBook.Quantity" class="form-control" />
+            <span asp-validation-for="newBook.Quantity" class="text-danger"></span>
+        </div>
+
+
+
+        <div class="form-group">
+            <label asp-for="newBook.RentalPrice"></label>
+            <input asp-for="newBook.RentalPrice" class="form-control" />
+            <span asp-validation-for="newBook.RentalPrice" class="text-danger"></span>
+        </div>
+
+        @*   <div class="form-group form-check">
+        <input type="hidden" name="newBook.Status" value="false" />
+        <input type="checkbox" class="form-check-input" name="newBook.Status" value="true" @(Model.newBook.Status == true ? "checked" : "") />
+        <label for="Status" class="form-check-label">Trạng Thái</label>
+        <span asp-validation-for="newBook.Status" class="text-danger"></span>
+        </div> *@
+
+        <div class="form-group">
+            <label asp-for="newBook.Isbn"></label>
+            <input asp-for="newBook.Isbn" class="form-control" />
+            <span asp-validation-for="newBook.Isbn" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Thêm Sách</button>
+    </form>
+</div>

@@ -1,0 +1,81 @@
+﻿@page
+@model DemoPRN1.Pages.Admin.BookStore.IndexModel
+@{
+}
+@{
+    Layout = "/Pages/Shared/_LayoutAdmin.cshtml";
+}
+
+                <!-- Page Heading -->
+                <h1 class="h3 mb-2 text-gray-800">Danh sách</h1>
+             
+                   
+
+                <!-- DataTales Example -->
+                <div class="card shadow mb-4">
+                    <div class="card-header py-3">
+                    <a asp-page="/Admin/BookStore/BookStore" class="btn btn-success btn-icon-split">
+                        <span class="icon text-white-50">
+                            <i class="fa-solid fa-plus"></i>
+                        </span>
+                        <span class="text">Duyệt đăng kí hiệu sách</span>
+                    </a>
+                 </div>
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                                <thead>
+                                    <tr>
+                                        <th>BookStoreID</th>
+                                        <th>Tên hiệu sách</th>
+                                        <th>Căn cước công dân</th>
+                                        <th>Địa chỉ</th>
+                                        <th>Trạng thái</th>
+                                        <th>Thời điểm tạo</th>
+                                        <th>Thời điểm cập nhật</th>
+                                        <th>Hành động</th>
+                                    </tr>
+                                </thead>
+
+                                <tbody>
+
+                                    @foreach (var item in Model.bookstores)
+                                    {
+                                        <tr>
+                                            <td>@item.BookStoreId</td>
+                                            <td>@item.StoreName</td>
+                                            <td>
+                                                <img src="@Url.Content(@item.IdentityImg)" style="width: 50px; height: auto;" />
+                                                 </td>
+                                            <td>@item.Address</td>
+
+                                            <td>
+                                                @{
+                                                    string statusText = item.Status.HasValue ? (item.Status.Value ? "Khả dụng" : "Không khả dụng") : "Bị cấm";
+                                                    string statusClass = item.Status.HasValue ? (item.Status.Value ? "text-success" : "text-warning") : "text-muted";
+                                                }
+                                                <span class="@statusClass">@statusText</span>
+                                            </td>
+                                            <td>@item.CreateAt</td>
+                                            <td>@item.UpdateAt</td>
+
+                                            <td>                                             
+                                                <div class="tableFunc">
+                                                    <form method="post" asp-page-handler="Post" asp-route-id="@item.BookStoreId" style="display:inline;">
+                                                        <button type="submit" class="btn btn-danger btn-icon-split" onclick="return confirm('Bạn có chắc chắn muốn chặn hiệu sách này?');">
+                                                            <span class="icon text-white-50">
+                                                                <i class="fas fa-ban"></i>
+                                                            </span>
+                                                            <span class="text">Ban</span>
+                                                        </button>
+                                                    </form>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+           

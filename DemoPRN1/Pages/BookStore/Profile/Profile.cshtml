@@ -1,0 +1,132 @@
+﻿@page
+@model DemoPRN1.Pages.BookStore.Profile.ProfileModel
+@{
+}
+
+
+	<body>
+		<section id="profile">
+			<div class="container">
+				<div class="main-profile" style="background-color: #fff; border-radius: 12px">
+					<div class="page-title-2">
+						<h1>Thông tin tài khoản</h1>
+					</div>
+					<form method="post">
+						<input type="hidden" asp-for="accounts.AccountId" />
+						<input type="hidden" asp-for="accounts.CreateAt" />
+						<input type="hidden" asp-for="accounts.Status" />
+						<input type="hidden" asp-for="accounts.RoleId"/>
+						<div>
+							<input name="form_key" type="hidden" value="0D7nV0OiEOBKLg5f" />
+							<div class="input-box input-group-horizontal-account">
+								<label>Tên Hiệu Sách</label>
+								<div class="input-item">
+									<div class="input-group">
+									<input type="text" asp-for="bookstores.StoreName" autocomplete="off" class="form-control form-control-lg" />
+
+									</div>
+								</div>
+								<div class="input-alert"></div>
+							</div>
+							<div class="input-box input-group-horizontal-account">
+								<label>Địa chỉ Hiệu Sách</label>
+								<div class="input-item">
+									<div class="input-group">
+										<input type="text" asp-for="bookstores.Address" autocomplete="off" class="form-control form-control-lg" />
+
+									</div>
+								</div>
+								<div class="input-alert"></div>
+							</div>
+							<div class="input-box input-group-horizontal-account">
+								<label>Tên Chủ Hiệu Sách</label>
+								<div class="input-item">
+									<div class="input-group">
+										<input type="text" asp-for="accounts.FullName" autocomplete="off" class="form-control form-control-lg" />
+
+									</div>
+								</div>
+								<div class="input-alert"></div>
+							</div>
+							<div class="input-box input-group-horizontal-account input-send">
+								<label>Số điện thoại</label>
+								<div class="input-item">
+									<div class="input-group">
+										<input type="tel" asp-for="accounts.PhoneNumer" autocomplete="off" class="form-control form-control-lg" />
+
+									</div>
+								</div>
+								<div class="input-alert"></div>
+							</div>
+							<div class="input-box input-group-horizontal-account input-send">
+								<label>Email</label>
+								<div class="input-item">
+									<div class="input-group">
+										<input type="text" asp-for="accounts.Email"
+											   readonly="true" />
+									</div>
+								</div>
+
+								<div class="input-alert"></div>
+							</div>
+
+							<div class="input-box input-group-horizontal-account input-send">
+								<label>Địa chỉ</label>
+								<div class="input-item">
+									<div class="input-group">
+										<input type="text" asp-for="accounts.Address" autocomplete="off" class="form-control form-control-lg" />
+
+									</div>
+								</div>
+
+								<div class="input-alert"></div>
+							</div>
+							<div class="edit-account-password-form">
+								<div class="input-box input-group-horizontal-account">
+									<label>Mật khẩu hiện tại*</label>
+									<div class="input-item">
+										<div class="input-group">
+											<input type="password" asp-for="pass.OldPassword" autocomplete="off" class="form-control form-control-lg" placeholder="Mật khẩu Cũ" />
+											<span asp-validation-for="pass.OldPassword" class="text-danger"></span>
+
+										</div>
+									</div>
+									<div class="input-alert"></div>
+								</div>
+								<div class="input-box input-group-horizontal-account">
+									<label>Mật khẩu mới*</label>
+									<div class="input-item">
+										<div class="input-group">
+											<input type="password" asp-for="pass.Password" autocomplete="off" class="form-control form-control-lg" placeholder="Mật khẩu mới" />
+											<span asp-validation-for="pass.Password" class="text-danger"></span>
+
+
+										</div>
+									</div>
+									<div class="input-alert"></div>
+								</div>
+								<div class="input-box input-group-horizontal-account">
+									<label>Nhập lại mật khẩu mới*</label>
+									<div class="input-item">
+										<div class="input-group">
+											<input type="password" asp-for="pass.ConfirmPassword" autocomplete="off" class="form-control form-control-lg" placeholder="Nhập lại mật khẩu" />
+											<span asp-validation-for="pass.ConfirmPassword" class="text-danger"></span>
+
+
+										</div>
+									</div>
+									<div class="input-alert"></div>
+								</div>
+							</div>
+							<div style="text-align: center;margin: 12px 0 12px 0;">
+							<button type="submit" title="Lưu thay đổi" style="border-radius: 8px; background-color: #4e73df; padding:12px; border-color: grey">
+									<span><span style="color: #fff; font-weight: 700">Lưu thay đổi</span></span>
+								</button>
+							</div>
+							<div asp-validation-summary="All" class="text-danger"></div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</section>
+	</body>

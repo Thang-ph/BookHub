@@ -1,0 +1,181 @@
+﻿@page
+@using Newtonsoft.Json
+@model DemoPRN1.Pages.Custommer.ListBookModel
+@{
+	ViewData["Title"] = "Book List";
+	Layout = "/Pages/Shared/_LayoutUser.cshtml";
+}
+
+<style>
+	.col-md-3 {
+		display: flex;
+	}
+
+	.card-product-grid {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		height: 100%;
+		width: 100%;
+	}
+
+	.img-wrap img {
+		width: 100%;
+		height: auto;
+	}
+
+	.info-wrap {
+		flex-grow: 1;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	}
+
+	.title {
+		min-height: 50px;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		display: -webkit-box;
+		-webkit-box-orient: vertical;
+		-webkit-line-clamp: 2;
+	}
+
+	.price-wrap {
+		margin-top: auto;
+	}
+
+	.button-row {
+		display: flex;
+		gap: 10px;
+	}
+
+		.button-row form {
+			flex: 1;
+		}
+
+		.button-row .btn {
+			width: 100%;
+		}
+
+</style>
+
+
+
+	<section id="popular-books" class="bookshelf py-5 my-5">
+		<div class="container">
+			<div class="row">
+				<aside class="col-md-3">
+
+					<div class="card">
+						<article class="filter-group">
+							<header class="card-header">
+								<a href="#" data-toggle="collapse" data-target="#collapse_1" aria-expanded="true" class="">
+									<i class="icon-control fa fa-chevron-down"></i>
+									<h6 class="title">Category</h6>
+								</a>
+							</header>
+							<div class="filter-content collapse show" id="collapse_1">
+								<div class="card-body">
+									<ul class="list-menu">
+										<a asp-page="ListBook" asp-route-categoryId=0>All</a>
+
+										@foreach (var category in Model.Categories)
+										{
+											<li>
+												<a asp-page="ListBook" asp-route-categoryId="@category.CategoryId">@category.CategoryName</a>
+											</li>
+										}
+									</ul>
+
+								</div> <!-- card-body.// -->
+							</div>
+						</article> <!-- filter-group  .// -->
+						<!-- filter-group .// -->
+
+					</div> <!-- card.// -->
+
+				</aside>
+				<main class="col-md-9">
+
+					<header class="border-bottom mb-4 pb-3">
+						<div class="form-inline">
+							<span class="mr-md-auto">@Model.Books.Count items found </span>
+							<select class="mr-2 form-control">
+								<option>Latest items</option>
+								<option>Trending</option>
+								<option>Most Popular</option>
+								<option>Cheapest</option>
+							</select>
+						</div>
+					</header><!-- sect-heading -->
+					@* view sách *@
+					<div class="row">
+						<div class="row">
+							@foreach (var book in Model.Books)
+							{
+								<div class="col-md-3">
+									<figure class="card card-product-grid">
+										<div class="img-wrap">
+											<a href="@Url.Page("/Custommer/BookDetail", new { bookId = book.BookId })">
+												<img src="@Url.Content(@book.Image)" alt="@book.BookTitle" class="img-fluid">
+											</a>
+											<a class="btn-overlay" href="#"><i class="fa fa-search-plus"></i> Quick view</a>
+										</div>
+										<figcaption class="info-wrap">
+											<div class="fix-height">
+											<a href="@Url.Page("/Custommer/BookDetail", new { bookId = book.BookId })" class="title" @(book.BookTitle.Length > 25 ? book.BookTitle[..25] + "..." : book.BookTitle)>@book.BookTitle</a>
+												<div class="price-wrap mt-2">
+													<span class="price">@String.Format("{0:N0} đ", book.Price) </span>
+												</div>
+											</div>
+											<div class="button-row">
+												<form method="post" asp-page-handler="AddToCart">
+													<input type="hidden" name="bookId" value="@book.BookId" />
+													<input type="hidden" name="categoryId" value="@book.CategoryId" />
+													<input type="hidden" name="pageNumber" value="@Model.CurrentPage" />
+													<input type="hidden" name="type" value="buy" />
+													<button type="submit" class="btn btn-block btn-primary">Buy</button>
+												</form>
+
+												<form method="post" asp-page-handler="AddToCart">
+													<input type="hidden" name="bookId" value="@book.BookId" />
+													<input type="hidden" name="categoryId" value="@book.CategoryId" />
+													<input type="hidden" name="pageNumber" value="@Model.CurrentPage" />
+													<input type="hidden" name="type" value="rent" />
+													<button style="background-color:indianred" type="submit" class="btn btn-block btn-primary">Rent</button>
+												</form>
+											</div>
+										</figcaption>
+									</figure>
+								</div>
+							}
+
+						</div>
+
+
+						<nav class="mt-4" aria-label="Page navigation sample">
+							<ul class="pagination">
+								<li class="page-item @(Model.PagingInfo.CurrentPage == 1 ? "disabled" : "")">
+									<a class="page-link" asp-page="ListBook" asp-route-categoryId="@Model.CurrentCategoryId" asp-route-pageNumber="@(Model.PagingInfo.CurrentPage - 1)">Previous</a>
+								</li>
+								@for (int i = 1; i <= Model.PagingInfo.TotalPages; i++)
+								{
+									<li class="page-item @(Model.PagingInfo.CurrentPage == i ? "active" : "")">
+										<a class="page-link" asp-page="ListBook" asp-route-categoryId="@Model.CurrentCategoryId" asp-route-pageNumber="@i">@i</a>
+									</li>
+								}
+								<li class="page-item @(Model.PagingInfo.CurrentPage == Model.PagingInfo.TotalPages ? "disabled" : "")">
+									<a class="page-link" asp-page="ListBook" asp-route-categoryId="@Model.CurrentCategoryId" asp-route-pageNumber="@(Model.PagingInfo.CurrentPage + 1)">Next</a>
+								</li>
+							</ul>
+
+						</nav>
+					</div>
+
+				</main>
+			</div>
+		</div>
+	</section>
+
+
+

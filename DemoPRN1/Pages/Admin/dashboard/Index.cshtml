@@ -1,0 +1,144 @@
+﻿@page
+@model DemoPRN1.Pages.Admin.dashboard.IndexModel
+@{
+    Layout = "/Pages/Shared/_LayoutAdmin.cshtml";
+}
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <div class="d-sm-flex align-items-center justify-content-between mb-4">
+        <h1 class="h3 mb-0 text-gray-800">Dashboard</h1>
+        <a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm">
+            <i class="fas fa-download fa-sm text-white-50"></i> Generate Report
+        </a>
+    </div>
+
+    <!-- Content Row -->
+    <div class="row">
+
+        <!-- Earnings (Monthly) Card Example -->
+        <div class="col-xl-3 col-md-6 mb-4">
+            <div class="card border-left-primary shadow h-100 py-2">
+                <div class="card-body">
+                    <div class="row no-gutters align-items-center">
+                        <div class="col mr-2">
+                            <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
+                                Số Người Dùng
+                            </div>
+                            <div class="h5 mb-0 font-weight-bold text-gray-800">@Model.userCount</div>
+                        </div>
+                        <div class="col-auto">
+                            <i class="fas fa-calendar fa-2x text-gray-300"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Earnings (Monthly) Card Example -->
+        <div class="col-xl-3 col-md-6 mb-4">
+            <div class="card border-left-success shadow h-100 py-2">
+                <div class="card-body">
+                    <div class="row no-gutters align-items-center">
+                        <div class="col mr-2">
+                            <div class="text-xs font-weight-bold text-success text-uppercase mb-1">
+                                Số Đơn Giao Dịch
+                            </div>
+                            <div class="h5 mb-0 font-weight-bold text-gray-800">@Model.transactionsCount</div>
+                        </div>
+                        <div class="col-auto">
+                            <i class="fas fa-dollar-sign fa-2x text-gray-300"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Earnings (Monthly) Card Example -->
+        <div class="col-xl-3 col-md-6 mb-4">
+            <div class="card border-left-success shadow h-100 py-2">
+                <div class="card-body">
+                    <div class="row no-gutters align-items-center">
+                        <div class="col mr-2">
+                            <div class="text-xs font-weight-bold text-success text-uppercase mb-1">
+                                Số Quyển Sách Đã Bán
+                            </div>
+                            <div class="h5 mb-0 font-weight-bold text-gray-800">@Model.booksSoldCount</div>
+                        </div>
+                        <div class="col-auto">
+                            <i class="fas fa-dollar-sign fa-2x text-gray-300"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Pending Requests Card Example -->
+        <div class="col-xl-3 col-md-6 mb-4">
+            <div class="card border-left-warning shadow h-100 py-2">
+                <div class="card-body">
+                    <div class="row no-gutters align-items-center">
+                        <div class="col mr-2">
+                            <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">
+                               Tổng Doanh Thu
+                            </div>
+                            <div class="h5 mb-0 font-weight-bold text-gray-800">@String.Format("{0:N0} đ", @Model.TotalRevenue)</div>
+                        </div>
+                        <div class="col-auto">
+                            <i class="fas fa-comments fa-2x text-gray-300"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+<style>
+    .dashboard {
+        display: flex;
+        gap: 20px;
+        justify-content: space-around;
+        margin-top: 20px;
+    }
+
+    .dashboard-item {
+        background-color: #f3f4f6;
+        padding: 20px;
+        border-radius: 8px;
+        width: 200px;
+        text-align: center;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+        .dashboard-item h3 {
+            margin-bottom: 10px;
+            font-size: 1.2em;
+            color: #333;
+        }
+
+    .statistic-value {
+        font-size: 2em;
+        color: #007bff;
+    }
+
+    /* Adding specific colors for each section */
+    #userCount .statistic-value {
+        color: #28a745;
+    }
+
+    #transactionsCount .statistic-value {
+        color: #ffc107;
+    }
+
+    #booksSoldCount .statistic-value {
+        color: #dc3545;
+    }
+
+    #booksRentedCount .statistic-value {
+        color: #17a2b8;
+    }
+</style>

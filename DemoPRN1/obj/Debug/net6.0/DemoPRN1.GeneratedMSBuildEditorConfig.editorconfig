@@ -1,0 +1,171 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DemoPRN1
+build_property.RootNamespace = DemoPRN1
+build_property.ProjectDir = C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Accounts/AddAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcQWRkQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Accounts/ConfirmOTP.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcQ29uZmlybU9UUC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Accounts/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcRm9yZ290UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Accounts/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Accounts/ManageAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcTWFuYWdlQWNjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Accounts/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Admin/BookStore/BookStore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQm9va1N0b3JlXEJvb2tTdG9yZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Admin/BookStore/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQm9va1N0b3JlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Admin/Categories/CreateCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2F0ZWdvcmllc1xDcmVhdGVDYXRlZ29yaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Admin/Categories/UpdateCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2F0ZWdvcmllc1xVcGRhdGVDYXRlZ29yaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Admin/Categories/ViewCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2F0ZWdvcmllc1xWaWV3Q2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Admin/dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cZGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Admin/Wishlist/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cV2lzaGxpc3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/BookStore/Books/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va1N0b3JlXEJvb2tzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/BookStore/Books/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va1N0b3JlXEJvb2tzXERhc2hib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/BookStore/Books/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va1N0b3JlXEJvb2tzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/BookStore/Books/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va1N0b3JlXEJvb2tzXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/BookStore/Books/WishlistBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va1N0b3JlXEJvb2tzXFdpc2hsaXN0Qm9vay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/BookStore/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va1N0b3JlXE9yZGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/BookStore/Profile/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va1N0b3JlXFByb2ZpbGVcUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Custommer/BookDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tbWVyXEJvb2tEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Custommer/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tbWVyXENhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Custommer/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tbWVyXEhvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Custommer/ListBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tbWVyXExpc3RCb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Custommer/ListBookByBookstore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tbWVyXExpc3RCb29rQnlCb29rc3RvcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Custommer/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tbWVyXExvZ291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Custommer/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tbWVyXFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Custommer/Purchase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tbWVyXFB1cmNoYXNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Custommer/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tbWVyXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Shared/_LayoutUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pham Thang/OneDrive/Máy tính/FPT/Tai Lieu/HK8/PRN221/Finally we can meet in here/Bookstore_Interface/Bookstore_Interface/DemoPRN1/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-kax6hdaq86

@@ -1,0 +1,71 @@
+﻿@page
+@model DemoPRN1.Pages.Admin.BookStore.BookStoreModel
+@{
+}
+@{
+    Layout = "/Pages/Shared/_LayoutAdmin.cshtml";
+}
+
+                <!-- Page Heading -->
+                <h1 class="h3 mb-2 text-gray-800">Danh sách</h1>
+
+
+                <!-- DataTales Example -->
+                <div class="card shadow mb-4">
+
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                                <thead>
+                                    <tr>
+                                        <th>BookStoreID</th>
+                                        <th>Tên hiệu sách</th>
+                                        <th>Địa chỉ</th>   
+                                        <th>Trạng thái</th>
+                                        <th>Thời điểm tạo</th>
+                                        <th>Thời điểm cập nhật</th>                                     
+                                        <th>Hành động</th>
+                                    </tr>
+                                </thead>
+                            
+                                <tbody>
+
+                                    @foreach (var item in Model.bookstores)
+                                    {
+                                        <tr>
+                                            <td>@item.BookStoreId</td>
+                                            <td>@item.StoreName</td>
+                                            <td>@item.Address</td>                                        
+                                          
+                                            <td>
+                                                @{
+                                                    string statusText = item.Status.HasValue ? (item.Status.Value ? "Khả dụng" : "Đang chờ duyệt") : "Không xác định";
+                                                    string statusClass = item.Status.HasValue ? (item.Status.Value ? "text-success" : "text-warning") : "text-muted";
+                                                }
+                                                <span class="@statusClass">@statusText</span>
+                                            </td>
+                                            <td>@item.CreateAt</td>
+                                            <td>@item.UpdateAt</td>
+
+                                            <td>
+                                                <div class="tableFunc">
+                                                    <form method="post" asp-page-handler="Post" asp-route-id="@item.BookStoreId" style="display:inline;">
+                                                        <button type="submit" class="btn btn-success btn-icon-split" onclick="return confirm('Bạn có chắc chắn muốn duyệt sách này?');">
+                                                            <span class="icon text-white-50">
+                                                                <i class="fas fa-check"></i>
+                                                            </span>
+                                                            <span class="text">Duyệt </span>
+                                                        </button>
+                                                    </form>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+           
+      

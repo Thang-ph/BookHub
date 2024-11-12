@@ -1,0 +1,414 @@
+﻿@page
+@model DemoPRN1.Pages.Custommer.ListBookByBookstoreModel
+@{
+	ViewData["Title"] = "Book List";
+	Layout = "/Pages/Shared/_LayoutUser.cshtml";
+}
+
+<style>
+	.col-md-3 {
+		display: flex;
+	}
+
+	.card-product-grid {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		height: 100%;
+		width: 100%;
+	}
+
+	.img-wrap img {
+		width: 100%;
+		height: auto;
+	}
+
+	.info-wrap {
+		flex-grow: 1;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	}
+
+	.title {
+		min-height: 50px;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		display: -webkit-box;
+		-webkit-box-orient: vertical;
+		-webkit-line-clamp: 2;
+	}
+
+	.bookstoreTitle {
+		font-weight: 700;
+		text-align: center;
+	}
+
+	.bookTitleWrapper {
+		justify-content: center;
+		align-items: center;
+	}
+
+	.price-wrap {
+		margin-top: auto;
+	}
+
+	.button-row {
+		display: flex;
+		gap: 10px;
+	}
+
+		.button-row form {
+			flex: 1;
+		}
+
+		.button-row .btn {
+			width: 100%;
+		}
+
+	.header {
+		background-color: #F3F2EC;
+		padding: 1.5rem;
+		text-align: center;
+		flex-direction: row;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.store-welcome {
+		font-weight: 700;
+		font-size: 2.5rem;
+		color: #000;
+		font-family: "Arial", sans-serif;
+		letter-spacing: 0.05em;
+		line-height: 1.2;
+	}
+
+	.bookstoreTitle {
+		font-size: 2rem;
+		color: #34495e;
+		margin-bottom: 1.5rem;
+		text-align: center;
+	}
+
+	/* Book List Styling */
+	.card-product-grid {
+		background-color: #ffffff;
+		border: 1px solid #ddd;
+		border-radius: 8px;
+		margin: 1rem 0;
+		box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+	}
+
+		.card-product-grid:hover {
+			box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+		}
+
+	.img-wrap img {
+		width: 100%;
+		height: 220px;
+		object-fit: cover;
+		border-top-left-radius: 8px;
+		border-top-right-radius: 8px;
+	}
+
+	.title {
+		font-size: 1.1rem;
+		color: #333;
+		font-weight: 600;
+		margin: 0.5rem 0;
+	}
+
+	.price-wrap {
+		font-size: 1.2rem;
+		color: #e67e22;
+		font-weight: 700;
+	}
+
+	.button-row {
+		display: flex;
+		gap: 0.5rem;
+		margin-top: 1rem;
+	}
+
+		.button-row .btn {
+			flex: 1;
+			border-radius: 5px;
+		}
+
+	.btn-primary {
+		background-color: indianred;
+		border: none;
+	}
+
+		.btn-primary:hover {
+			background-color: indianred;
+		}
+
+	/* Sidebar Category Styling */
+	aside {
+		background-color: #ecf0f1;
+		border-radius: 8px;
+		padding: 1.5rem;
+		margin-bottom: 1rem;
+	}
+
+	.filter-group .title {
+		font-size: 1.2rem;
+		font-weight: 700;
+		margin-bottom: 1rem;
+	}
+
+	.list-menu a {
+		display: block;
+		padding: 0.5rem 0;
+		color: #333;
+		text-decoration: none;
+		font-weight: 500;
+	}
+
+		.list-menu a:hover {
+			color: indianred;
+		}
+
+	/* Pagination */
+	.pagination {
+		justify-content: center;
+		margin-top: 2rem;
+	}
+
+	.page-link {
+		color: indianred;
+		border: none;
+		font-weight: 600;
+	}
+
+	.page-item.active .page-link {
+		background-color: indianred;
+		color: white;
+	}
+
+	/* Card styling */
+	.filter-card {
+		border: 1px solid #e0e0e0;
+		border-radius: 8px;
+		box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+		margin-bottom: 20px;
+	}
+
+	.filter-header {
+		background-color: #727272; /* Match with the bookstore's green theme */
+		color: #ffffff;
+		padding: 10px 15px;
+		border-top-left-radius: 8px;
+		border-top-right-radius: 8px;
+	}
+
+		.filter-header h6.title {
+			font-size: 1.1rem;
+			font-weight: bold;
+			margin: 0;
+			display: inline-block;
+		}
+
+		.filter-header .icon-control {
+			margin-right: 5px;
+		}
+
+	.filter-body {
+		padding: 15px;
+	}
+
+	.list-menu {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+
+		.list-menu li {
+			margin: 10px 0;
+		}
+
+		.list-menu a {
+			color: #333333;
+			font-weight: 500;
+			font-size: 1rem;
+			text-decoration: none;
+			font-family: "Arial", sans-serif; /* Good for Vietnamese readability */
+			transition: color 0.2s ease;
+		}
+
+			.list-menu a:hover {
+				color: #727272; /* Match hover color with the theme */
+			}
+
+	/* Collapse icon adjustment */
+	.icon-control.fa-chevron-down {
+		float: right;
+	}
+
+	.sectionTitle {
+		background-color: #F3F2EC;
+		padding: 0.5rem;
+		text-align: center;
+		flex-direction: row;
+		justify-content: center;
+		align-items: center;
+	}
+</style>
+
+
+	<header class="header">
+		<h1 class="store-welcome">@Model.StoreName</h1>
+	</header>
+<div class="sectionTitle">
+	<h3 class="store-welcome">Top sách bán chạy</h3>
+</div>
+<div class="row g-4 px-5">
+	@foreach (var book in Model.Books.Take(4))
+	{
+		<div class="col-md-3">
+			<div class="product-item">
+				<figure class="product-style">
+					<div class="img-wrap">
+						<a href="@Url.Page("/Custommer/BookDetail", new { bookId = book.BookId })">
+							<img style="height: 400px" src="@Url.Content(@book.Image)" alt="@book.BookTitle" class="product-item img-fluid">
+						</a>
+						<button type="button" class="add-to-cart" data-product-tile="add-to-cart">
+							<a href="@Url.Page("/Custommer/BookDetail", new { bookId = book.BookId })"> Quick view</a>
+						</button>
+					</div>
+				</figure>
+				<figcaption class="info-wrap">
+					<div class="fix-height">
+						<a title="@(book.BookTitle)" href="@Url.Page("/Custommer/BookDetail", new { bookId = book.BookId })">
+							@(book.BookTitle.Length > 25 ? book.BookTitle[..25] + "..." : book.BookTitle)
+						</a><br />
+						<div class="price-wrap mt-2">
+							<span class="price">@String.Format("{0:N0} đ", book.Price) </span>
+						</div>
+					</div>
+					<div style="display: flex; gap: 10px; justify-content: center;" class="button-row">
+						<form method="post" asp-page-handler="AddToCart">
+							<input type="hidden" name="bookId" value="@book.BookId" />
+							<input type="hidden" name="categoryId" value="@book.CategoryId" />
+							<input type="hidden" name="type" value="buy" />
+							<button type="submit" class="btn btn-block btn-primary">Buy</button>
+						</form>
+
+						<form method="post" asp-page-handler="AddToCart">
+							<input type="hidden" name="bookId" value="@book.BookId" />
+							<input type="hidden" name="categoryId" value="@book.CategoryId" />
+							<input type="hidden" name="type" value="rent" />
+							<button style="background-color:indianred" type="submit" class="btn btn-block btn-primary">Rent</button>
+						</form>
+					</div>
+				</figcaption>
+			</div>
+		</div>
+	}
+</div>
+<div class="sectionTitle">
+	<h3 class="store-welcome">Tất cả sách tại cửa hàng</h3>
+</div>
+	<section id="popular-books" class="bookshelf py-5 my-5">
+		<div class="container">
+			<div class="row">
+				<aside class="col-md-3">
+					<div class="card filter-card">
+						<article class="filter-group">
+							<header class="card-header filter-header">
+								<a href="#" data-toggle="collapse" data-target="#collapse_1" aria-expanded="true">
+									<i class="icon-control fa fa-chevron-down"></i>
+									<h6 class="title">Thể loại</h6>
+								</a>
+							</header>
+							<div class="filter-content collapse show" id="collapse_1">
+								<div class="card-body filter-body">
+									<ul class="list-menu">
+										<li><a asp-page="ListBookByBookstore" asp-route-bookStoreId="@Model.BookStoreId">Tất cả</a></li>
+										@foreach (var category in Model.Categories)
+										{
+											<li>
+												<a asp-page="ListBookByBookstore" asp-route-bookStoreId="@Model.BookStoreId" asp-route-categoryId="@category.CategoryId">@category.CategoryName</a>
+											</li>
+										}
+									</ul>
+								</div>
+							</div>
+						</article>
+					</div>
+				</aside>
+				<main class="col-md-9">
+					<div>
+						<span>Có @Model.Books.Count cuốn</span>
+					</div>
+					@* view sách *@
+					<div class="row">
+						<div class="row">
+							@foreach (var book in Model.Books)
+							{
+								<div class="col-md-3">
+									<figure class="card card-product-grid">
+										<div class="img-wrap">
+											<a href="@Url.Page("/Custommer/BookDetail", new { bookId = book.BookId })">
+												<img src="@Url.Content(@book.Image)" alt="@book.BookTitle" class="img-fluid">
+											</a>
+											<a class="btn-overlay" href="#"><i class="fa fa-search-plus"></i> Quick view</a>
+										</div>
+										<figcaption class="info-wrap">
+											<div class="fix-height">
+												<a href="@Url.Page("/Custommer/BookDetail", new { bookId = book.BookId })" class="title">@book.BookTitle</a>
+												<div class="price-wrap mt-2">
+													<span class="price">@String.Format("{0:N0} VNĐ", book.Price) </span>
+												</div>
+											</div>
+											<div class="button-row">
+												<form method="post" asp-page-handler="AddToCart">
+													<input type="hidden" name="bookId" value="@book.BookId" />
+													<input type="hidden" name="categoryId" value="@book.CategoryId" />
+													<input type="hidden" name="pageNumber" value="@Model.CurrentPage" />
+													<input type="hidden" name="type" value="buy" />
+													<button type="submit" class="btn btn-block btn-primary">Buy</button>
+												</form>
+
+												<form method="post" asp-page-handler="AddToCart">
+													<input type="hidden" name="bookId" value="@book.BookId" />
+													<input type="hidden" name="categoryId" value="@book.CategoryId" />
+													<input type="hidden" name="pageNumber" value="@Model.CurrentPage" />
+													<input type="hidden" name="type" value="rent" />
+													<button style="background-color:indianred" type="submit" class="btn btn-block btn-primary">Rent</button>
+												</form>
+											</div>
+										</figcaption>
+									</figure>
+								</div>
+							}
+
+						</div>
+						<nav aria-label="Page navigation">
+							<ul class="pagination">
+								<li class="page-item @(Model.PagingInfo.CurrentPage == 1 ? "disabled" : "")">
+									<a class="page-link" href="#" aria-label="Previous">
+										<span aria-hidden="true">&laquo;</span>
+									</a>
+								</li>
+								@for (int i = 1; i <= Model.PagingInfo.TotalPages; i++)
+								{
+									<li class="page-item @(Model.PagingInfo.CurrentPage == i ? "active" : "")">
+										<a class="page-link" href="#">@i</a>
+									</li>
+								}
+								<li class="page-item @(Model.PagingInfo.CurrentPage == Model.PagingInfo.TotalPages ? "disabled" : "")">
+									<a class="page-link" href="#" aria-label="Next">
+										<span aria-hidden="true">&raquo;</span>
+									</a>
+								</li>
+							</ul>
+						</nav>
+					</div>
+				</main>
+			</div>
+		</div>
+	</section>
+	

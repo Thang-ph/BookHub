@@ -1,0 +1,28 @@
+﻿@page
+@model DemoPRN1.Pages.Admin.Categories.CreateCategoriesModel
+
+@{
+    Layout = "/Pages/Shared/_LayoutAdmin.cshtml";
+}
+
+                <div class="container-fluid">
+                    <h2>Thêm thể loại sách</h2>
+
+                    <form method="post" >
+                        <div class="form-group">
+                            <label asp-for="category.CategoryName"></label>
+                            <input asp-for="category.CategoryName" class="form-control" />
+                            <span asp-validation-for="category.CategoryName" class="text-danger"></span>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Thêm thể loại</button>
+                        @if (!ModelState.IsValid)
+                        {
+                            <div class="alert alert-danger">
+                                @foreach (var error in ModelState.Values.SelectMany(v => v.Errors))
+                                {
+                                    <p>@error.ErrorMessage</p>
+                                }
+                            </div>
+                        }
+                     </form>
+                </div>

@@ -1,0 +1,252 @@
+﻿@page
+@using Newtonsoft.Json
+@model DemoPRN1.Pages.Custommer.PurchaseModel
+@{
+}
+@{
+   
+    Layout = "/Pages/Shared/_LayoutUser.cshtml";
+}
+
+<style>
+    .col-md-3 {
+        display: flex;
+    }
+
+    .card-product-grid {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 100%;
+        width: 100%;
+    }
+
+    .img-wrap img {
+        width: 100%;
+        height: auto;
+    }
+
+    .info-wrap {
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .title {
+        min-height: 50px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+    }
+
+    .price-wrap {
+        margin-top: auto;
+    }
+
+    .button-row {
+        display: flex;
+        gap: 10px;
+    }
+
+        .button-row form {
+            flex: 1;
+        }
+
+        .button-row .btn {
+            width: 100%;
+        }
+
+    td, tr {
+        text-align: center;
+    }
+
+</style>
+
+<
+
+    <section id="popular-books" class="bookshelf py-5 my-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+
+                    <div class="section-header align-center">
+                        <h2 class="section-title">Lịch sử giao dịch</h2>
+                    </div>
+
+                    <ul class="tabs">
+                        <li data-tab-target="#all-genre" class="active tab">Tất cả</li>
+                        <li data-tab-target="#rent-genre" class="tab">Sách thuê</li>
+                        <li data-tab-target="#buy-genre" class="tab">Sách mua</li>
+
+                    </ul>
+
+                    <div class="tab-content">
+                        <div class="active" id="all-genre" data-tab-content>
+                            <div style="overflow-x: auto;">
+                                <table style="width: 100%; text-align: center;">
+                                    <thead>
+                                        <tr>
+                                            <th>Ảnh</th>
+                                            <th>Tên sách</th>
+                                            <th>Phân loại</th>
+                                            <th>Trạng thái</th>
+                                            <th>Số lượng</th>
+                                            <th>Thành tiền</th>
+                                            <th>Thời gian tạo đơn</th>
+                                            <th>Ngày trả sách</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var item in Model.BookOfUser)
+                                        {
+                                            <tr>
+                                                <td>
+                                                    <img src="@Url.Content(@item.Book.Image)" style="width: 50px; height: auto;" />
+                                                </td>
+                                                <td><a href="@Url.Page("/Custommer/BookDetail", new { bookId = item.Book.BookId })">@item.Book.BookTitle</a></td>
+                                                <td>
+                                                    @{
+                                                        string TypeText = item.Oderdetail.Type.HasValue ? (item.Oderdetail.Type.Value ? "Mua" : "Thuê") : "Không xác định";
+                                                        string TypeClass = item.Oderdetail.Type.HasValue ? (item.Oderdetail.Type.Value ? "text-success" : "text-warning") : "text-muted";
+                                                    }
+                                                    <span class="@TypeClass">@TypeText</span>
+                                                </td>
+                                                <td>
+                                                    @{
+                                                    string statusText = item.Order.Status == 1 ? "Đã thanh toán" : (item.Order.Status == 0 ? "Đang chờ duyệt" : "Không xác định");
+                                                        string statusClass = item.Order.Status == 1 ? "text-success" : (item.Order.Status == 0 ? "text-warning" : "text-muted");
+                                                    }
+                                                    <span class="@statusClass">@statusText</span>
+                                                </td>
+                                                <td>@item.Oderdetail.Quantity</td>
+                                                <td>
+                                                    @(item.Oderdetail.Type == true
+                                                    ? String.Format("{0:N0} đ", item.Book.Price * item.Oderdetail.Quantity)
+                                                    : String.Format("{0:N0} đ", item.Book.RentalPrice * item.Oderdetail.Quantity * ((item.Oderdetail.EndDate.Value - item.Oderdetail.Startdate.Value).Days)))
+                                                </td>
+                                                <td>@item.Order.CreateAt?.ToString("dd/MM/yyyy")</td>
+                                                <td>@item.Oderdetail.EndDate?.ToString("dd/MM/yyyy")</td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+
+                        <div id="buy-genre" data-tab-content>
+                            <div style="overflow-x: auto;">
+                                <table style="width: 100%; text-align: center;">
+                                    <thead>
+                                        <tr>
+                                            <th>Ảnh</th>
+                                            <th>Tên sách</th>
+                                            <th>Phân loại</th>
+                                            <th>Trạng thái</th>
+                                            <th>Số lượng</th>
+                                            <th>Thành tiền</th>
+                                            <th>Thời gian tạo đơn</th>
+                                            <th>Ngày trả sách</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var item in Model.BookBuy)
+                                        {
+                                            <tr>
+                                                <td>
+                                                    <img src="@Url.Content(@item.Book.Image)" style="width: 50px; height: auto;" />
+                                                </td>
+                                                <td><a href="@Url.Page("/Custommer/BookDetail", new { bookId = item.Book.BookId })">@item.Book.BookTitle</a></td>
+                                                <td>
+                                                    @{
+                                                        string TypeText = item.Oderdetail.Type.HasValue ? (item.Oderdetail.Type.Value ? "Mua" : "Thuê") : "Không xác định";
+                                                        string TypeClass = item.Oderdetail.Type.HasValue ? (item.Oderdetail.Type.Value ? "text-success" : "text-warning") : "text-muted";
+                                                    }
+                                                    <span class="@TypeClass">@TypeText</span>
+                                                </td>
+                                                <td>
+                                                    @{
+                                                    string statusText = item.Order.Status == 1 ? "Đã thanh toán" : (item.Order.Status == 0 ? "Đang chờ duyệt" : "Không xác định");
+                                                        string statusClass = item.Order.Status == 1 ? "text-success" : (item.Order.Status == 0 ? "text-warning" : "text-muted");
+                                                    }
+                                                    <span class="@statusClass">@statusText</span>
+                                                </td>
+                                                <td>@item.Oderdetail.Quantity</td>
+                                                <td>
+                                                    @(item.Oderdetail.Type == true
+                                                    ? String.Format("{0:N0} đ", item.Book.Price * item.Oderdetail.Quantity)
+                                                    : String.Format("{0:N0} đ", item.Book.RentalPrice * item.Oderdetail.Quantity * ((item.Oderdetail.EndDate.Value - item.Oderdetail.Startdate.Value).Days)))
+                                                </td>
+                                                <td>@item.Order.CreateAt?.ToString("dd/MM/yyyy")</td>
+                                                <td>@item.Oderdetail.EndDate?.ToString("dd/MM/yyyy")</td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+
+                        <div id="rent-genre" data-tab-content>
+                            <div style="overflow-x: auto;">
+                                <table style="width: 100%; text-align: center;">
+                                    <thead>
+                                        <tr>
+                                            <th>Ảnh</th>
+                                            <th>Tên sách</th>
+                                            <th>Phân loại</th>
+                                            <th>Trạng thái</th>
+                                            <th>Số lượng</th>
+                                            <th>Thành tiền</th>
+                                            <th>Thời gian tạo đơn</th>
+                                            <th>Ngày trả sách</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var item in Model.BookRent)
+                                        {
+                                            <tr>
+                                                <td>
+                                                    <img src="@Url.Content(@item.Book.Image)" style="width: 50px; height: auto;" />
+                                                </td>
+                                                <td><a href="@Url.Page("/Custommer/BookDetail", new { bookId = item.Book.BookId })">@item.Book.BookTitle</a></td>
+                                                <td>
+                                                    @{
+                                                        string TypeText = item.Oderdetail.Type.HasValue ? (item.Oderdetail.Type.Value ? "Mua" : "Thuê") : "Không xác định";
+                                                        string TypeClass = item.Oderdetail.Type.HasValue ? (item.Oderdetail.Type.Value ? "text-success" : "text-warning") : "text-muted";
+                                                    }
+                                                    <span class="@TypeClass">@TypeText</span>
+                                                </td>
+                                                <td>
+                                                    @{
+                                                        string statusText = item.Order.Status == 1 ? "Đã thanh toán" : (item.Order.Status == 0 ? "Đang chờ duyệt" : "Không xác định");
+                                                        string statusClass = item.Order.Status == 1 ? "text-success" : (item.Order.Status == 0 ? "text-warning" : "text-muted");
+                                                    }
+                                                    <span class="@statusClass">@statusText</span>
+                                                </td>
+                                                <td>@item.Oderdetail.Quantity</td>
+                                                <td>
+                                                    @(item.Oderdetail.Type == true
+                                                    ? String.Format("{0:N0} đ", item.Book.Price * item.Oderdetail.Quantity)
+                                                    : String.Format("{0:N0} đ", item.Book.RentalPrice * item.Oderdetail.Quantity * ((item.Oderdetail.EndDate.Value - item.Oderdetail.Startdate.Value).Days)))
+                                                </td>
+                                                <td>@item.Order.CreateAt?.ToString("dd/MM/yyyy")</td>
+                                                <td>@item.Oderdetail.EndDate?.ToString("dd/MM/yyyy")</td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div><!--inner-tabs-->
+
+            </div>
+        </div>
+    </section>
+
+
+    

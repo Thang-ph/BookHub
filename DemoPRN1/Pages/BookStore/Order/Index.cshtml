@@ -1,0 +1,74 @@
+@page
+@model DemoPRN1.Pages.BookStore.Order.Index
+
+<!-- Page Heading -->
+<h1 class="h3 mb-2 text-gray-800">Danh sách</h1>
+
+
+<!-- DataTales Example -->
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+       
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Ảnh</th>
+                    <th>Tên sách</th>
+                    <th>Phân loại</th>
+                    <th>Số lượng</th>
+                    <th>Ngày tạo đơn</th>
+                    <th>Ngày trả</th>
+                    <th>Thành tiền</th>
+                    <th>Hành động</th>
+                </tr>
+                </thead>
+               
+                <tbody>
+
+                @foreach (var item in Model.Order)
+                {
+                <tr>
+                    <td>@item.Order.OrderId</td>
+                    <td>
+                        <img src="@Url.Content(@item.Book.Image)" style="width: 50px; height: auto;" />
+                    </td>
+                    <td>@item.Book.BookTitle</td>
+                    <td>
+                        @{
+                        string statusText = item.Oderdetail.Type == true ? "Mua" : (item.Oderdetail.Type == false ? "Thuê" : "Không xác định");
+                        string statusClass = item.Oderdetail.Type == true ? "text-success" : (item.Oderdetail.Type == false ? "text-warning" : "text-muted");
+                        }
+                        <span class="@statusClass">@statusText</span>
+                    </td>
+                    <td>@item.Oderdetail.Quantity</td>
+                    <td>@item.Order.CreateAt</td>
+                    <td>@item.Oderdetail.EndDate</td>
+                    <td>
+                        @(item.Oderdetail.Type == true
+                        ? String.Format("{0:N0} đ", item.Book.Price * item.Oderdetail.Quantity)
+                        : String.Format("{0:N0} đ", item.Book.RentalPrice * item.Oderdetail.Quantity * ((item.Oderdetail.EndDate.Value - item.Oderdetail.Startdate.Value).Days)))
+                    </td>
+                    <td>
+                        <div class="tableFunc">
+                            <form method="post" asp-page-handler="Post" asp-route-id="@item.Order.OrderId" style="display:inline;">
+                                <button type="submit" class="btn btn-success btn-icon-split" onclick="return confirm('Bạn có chắc chắn muốn duyệt sách này?');">
+                                            <span class="icon text-white-50">
+                                                <i class="fas fa-check"></i> 
+                                            </span>
+                                    <span class="text">Duyệt </span>
+                                </button>
+                            </form>
+                        </div>
+                    </td>
+                </tr>
+                }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

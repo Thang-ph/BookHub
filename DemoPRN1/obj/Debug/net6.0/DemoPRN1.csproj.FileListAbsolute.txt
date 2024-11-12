@@ -1,0 +1,552 @@
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\appsettings.json
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\DemoPRN1.staticwebassets.runtime.json
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\DemoPRN1.exe
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\DemoPRN1.deps.json
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\DemoPRN1.runtimeconfig.json
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\DemoPRN1.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\DemoPRN1.pdb
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.AssemblyReference.cache
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.AssemblyInfoInputs.cache
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.AssemblyInfo.cs
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.CoreCompileInputs.cache
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.RazorAssemblyInfo.cache
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.RazorAssemblyInfo.cs
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.DemoPRN1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.build.DemoPRN1.props
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DemoPRN1.props
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DemoPRN1.props
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\scopedcss\bundle\DemoPRN1.styles.css
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\scopedcss\projectbundle\DemoPRN1.bundle.scp.css
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.Up2Date
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\refint\DemoPRN1.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.pdb
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.genruntimeconfig.cache
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\DemoPRN1\DemoPRN1\obj\Debug\net6.0\ref\DemoPRN1.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\appsettings.Development.json
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\appsettings.json
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\DemoPRN1.staticwebassets.runtime.json
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\DemoPRN1.exe
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\DemoPRN1.deps.json
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\DemoPRN1.runtimeconfig.json
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\DemoPRN1.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\DemoPRN1.pdb
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Humanizer.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.AssemblyReference.cache
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.AssemblyInfoInputs.cache
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.AssemblyInfo.cs
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.CoreCompileInputs.cache
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.RazorAssemblyInfo.cache
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.RazorAssemblyInfo.cs
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.sourcelink.json
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.DemoPRN1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.build.DemoPRN1.props
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DemoPRN1.props
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DemoPRN1.props
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\scopedcss\bundle\DemoPRN1.styles.css
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\scopedcss\projectbundle\DemoPRN1.bundle.scp.css
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.Up2Date
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\refint\DemoPRN1.dll
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.pdb
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\DemoPRN1.genruntimeconfig.cache
+D:\Code\html\BookStore\DemoPRN1\DemoPRN1\obj\Debug\net6.0\ref\DemoPRN1.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.AssemblyReference.cache
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.AssemblyInfoInputs.cache
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.AssemblyInfo.cs
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.CoreCompileInputs.cache
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.MvcApplicationPartsAssemblyInfo.cache
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.RazorAssemblyInfo.cache
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.RazorAssemblyInfo.cs
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\refint\DemoPRN1.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.pdb
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\appsettings.Development.json
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\appsettings.json
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.staticwebassets.runtime.json
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.exe
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.deps.json
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.runtimeconfig.json
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.pdb
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Humanizer.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.DemoPRN1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.build.DemoPRN1.props
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DemoPRN1.props
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DemoPRN1.props
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\scopedcss\bundle\DemoPRN1.styles.css
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\scopedcss\projectbundle\DemoPRN1.bundle.scp.css
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.Up2Date
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.genruntimeconfig.cache
+D:\Bookstore\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\ref\DemoPRN1.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\appsettings.Development.json
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\appsettings.json
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.staticwebassets.runtime.json
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.exe
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.deps.json
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.runtimeconfig.json
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.pdb
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Humanizer.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.AssemblyReference.cache
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.AssemblyInfoInputs.cache
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.AssemblyInfo.cs
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.CoreCompileInputs.cache
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.RazorAssemblyInfo.cache
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.RazorAssemblyInfo.cs
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets.build.json
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets.development.json
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.DemoPRN1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.build.DemoPRN1.props
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DemoPRN1.props
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DemoPRN1.props
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\scopedcss\bundle\DemoPRN1.styles.css
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\scopedcss\projectbundle\DemoPRN1.bundle.scp.css
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.Up2Date
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\refint\DemoPRN1.dll
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.pdb
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.genruntimeconfig.cache
+D:\New folder\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\ref\DemoPRN1.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\appsettings.Development.json
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\appsettings.json
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.staticwebassets.runtime.json
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.exe
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.deps.json
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.runtimeconfig.json
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.pdb
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Humanizer.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.AssemblyReference.cache
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.AssemblyInfoInputs.cache
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.AssemblyInfo.cs
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.CoreCompileInputs.cache
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.MvcApplicationPartsAssemblyInfo.cache
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.RazorAssemblyInfo.cache
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.RazorAssemblyInfo.cs
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.sourcelink.json
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets.build.json
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets.development.json
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.DemoPRN1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.build.DemoPRN1.props
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DemoPRN1.props
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DemoPRN1.props
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\scopedcss\bundle\DemoPRN1.styles.css
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\scopedcss\projectbundle\DemoPRN1.bundle.scp.css
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.Up2Date
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\refint\DemoPRN1.dll
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.pdb
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.genruntimeconfig.cache
+D:\ProjectPRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\ref\DemoPRN1.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\appsettings.Development.json
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\appsettings.json
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.staticwebassets.runtime.json
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.exe
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.deps.json
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.runtimeconfig.json
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.pdb
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Humanizer.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.AssemblyReference.cache
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.AssemblyInfoInputs.cache
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.AssemblyInfo.cs
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.CoreCompileInputs.cache
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.RazorAssemblyInfo.cache
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.RazorAssemblyInfo.cs
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.DemoPRN1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.build.DemoPRN1.props
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DemoPRN1.props
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DemoPRN1.props
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\scopedcss\bundle\DemoPRN1.styles.css
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\scopedcss\projectbundle\DemoPRN1.bundle.scp.css
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.Up2Date
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\refint\DemoPRN1.dll
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.pdb
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.genruntimeconfig.cache
+D:\Code\PRN221\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\ref\DemoPRN1.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\appsettings.json
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.staticwebassets.runtime.json
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.exe
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.deps.json
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.runtimeconfig.json
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.pdb
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.DemoPRN1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.build.DemoPRN1.props
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DemoPRN1.props
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DemoPRN1.props
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\scopedcss\bundle\DemoPRN1.styles.css
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\scopedcss\projectbundle\DemoPRN1.bundle.scp.css
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.Up2Date
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\refint\DemoPRN1.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.pdb
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\ref\DemoPRN1.dll
+C:\Users\ADMIN\Downloads\Final\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\payos-lib-backend-dotnet.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\appsettings.json
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.staticwebassets.runtime.json
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.exe
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.deps.json
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.runtimeconfig.json
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\DemoPRN1.pdb
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\payos-lib-backend-dotnet.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.AssemblyReference.cache
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.AssemblyInfoInputs.cache
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.AssemblyInfo.cs
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.CoreCompileInputs.cache
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.RazorAssemblyInfo.cache
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.RazorAssemblyInfo.cs
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.DemoPRN1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.build.DemoPRN1.props
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DemoPRN1.props
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DemoPRN1.props
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\scopedcss\bundle\DemoPRN1.styles.css
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\scopedcss\projectbundle\DemoPRN1.bundle.scp.css
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.csproj.Up2Date
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\refint\DemoPRN1.dll
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.pdb
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\DemoPRN1.genruntimeconfig.cache
+C:\Users\Pham Thang\OneDrive\Máy tính\FPT\Tai Lieu\HK8\PRN221\Finally we can meet in here\Bookstore_Interface\Bookstore_Interface\DemoPRN1\obj\Debug\net6.0\ref\DemoPRN1.dll

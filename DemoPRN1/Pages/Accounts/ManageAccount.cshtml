@@ -1,0 +1,110 @@
+﻿@page
+@model DemoPRN1.Pages.Accounts.ManageAccountModel
+@{
+    Layout = "/Pages/Shared/_LayoutAdmin.cshtml";
+}
+                <!-- Begin Page Content -->
+                <div class="container-fluid">
+
+                    <!-- Page Heading -->
+                    <h1 class="h3 mb-2 text-gray-800">Tables</h1>
+                    <p class="mb-4">
+                        DataTables is a third party plugin that is used to generate the demo table below.
+                        For more information about DataTables, please visit the <a target="_blank"
+                                                                                   href="https://datatables.net">official DataTables documentation</a>.
+                    </p>
+
+                    <!-- DataTales Example -->
+                    <div class="card shadow mb-4">
+                        <div class="card-header py-3">
+
+                            <a href="/Accounts/AddAdmin" class="btn btn-success btn-icon-split">
+                                <span class="icon text-white-50">
+                                    <i class="fa-solid fa-plus"></i>
+
+                                </span>
+                                <span class="text">Thêm Tài khoản admin</span>
+                            </a>
+                        </div>
+                        <div class="card-body">
+                            <div class="table-responsive">
+                                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                                    <thead>
+                                        <tr>
+                                            <th>ID</th>
+                                            <th>Tên đầy đủ</th>
+                                            <th>Trạng thái</th>
+                                            <th>Thời gian tạo</th>
+                                            <th>Loại tài khoản</th>
+                                            <th>Hành động</th>
+
+                                        </tr>
+                                    </thead>
+
+                                    <tbody>
+                                        @foreach (var item in Model.accounts)
+                                        {
+                                            <tr style="@(item.Status == false ? "background-color: lightcoral; color: black;" : item.Status == true ? "background-color: lightgreen; color: black;" : "")">
+                                                <td>@item.AccountId</td>
+                                                <td>@item.FullName</td>
+                                                <td>
+                                                    @if (item.Status == null)
+                                                    {
+                                                        <span>Chưa xác định</span>
+                                                    }
+                                                    else if (item.Status == true)
+                                                    {
+                                                        <span>Hoạt động</span>
+                                                    }
+                                                    else
+                                                    {
+                                                        <span>Bị cấm</span>
+                                                    }
+                                                </td>
+                                                <td>@item.CreateAt</td>
+                                                <td>@item.Role.RoleName</td>
+                                                <td>
+                                                    <div class="tableFunc">
+                                                        @if (item.RoleId != 1)
+                                                        {
+                                                            @if (item.Status == false)
+                                                            {
+                                                                <form method="post" asp-page-handler="Unban" style="display:inline;">
+                                                                    <input type="hidden" name="accountId" value="@item.AccountId" />
+                                                                    <button type="submit" class="btn btn-success btn-icon-split" title="Gỡ cấm">
+                                                                        <span class="icon text-white-50">
+                                                                            <i class="fa-solid fa-user-check"></i>
+                                                                        </span>
+                                                                    </button>
+                                                                </form>
+                                                            }
+                                                            else
+                                                            {
+                                                                <form method="post" asp-page-handler="Ban" style="display:inline;">
+                                                                    <input type="hidden" name="accountId" value="@item.AccountId" />
+                                                                    <button type="submit" class="btn btn-warning btn-icon-split" title="Cấm">
+                                                                        <span class="icon text-white-50">
+                                                                            <i class="fa-solid fa-user-slash"></i>
+                                                                        </span>
+                                                                    </button>
+                                                                </form>
+                                                            }
+                                                        }
+                                                    </div>
+                                                </td>
+
+                                            </tr>
+                                        }
+
+                                       
+                                        
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- /.container-fluid -->
+
+    

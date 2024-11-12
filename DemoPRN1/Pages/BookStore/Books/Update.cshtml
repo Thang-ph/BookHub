@@ -1,0 +1,95 @@
+﻿@page
+@model DemoPRN1.Pages.Books.UpdateModel
+<div class="container-fluid">
+    <h2>Cập Nhật Sách</h2>
+
+    <form method="post" enctype="multipart/form-data">
+        <input type="hidden" asp-for="updateBook.BookId" />
+        <input type="hidden" asp-for="updateBook.BookStoreId" />
+        <input type="hidden" asp-for="updateBook.CreateAt" />
+        <input type="hidden" asp-for="updateBook.Status" />
+        <input type="hidden" asp-for="updateBook.Quantity"/>
+        <input type="hidden" asp-for="updateBook.RentalQuantity"/>
+        <div class="form-group">
+            <label asp-for="updateBook.BookTitle"></label>
+            <input asp-for="updateBook.BookTitle" class="form-control" />
+            <span asp-validation-for="updateBook.BookTitle" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="updateBook.Author"></label>
+            <input asp-for="updateBook.Author" class="form-control" />
+            <span asp-validation-for="updateBook.Author" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="updateBook.Description"></label>
+            <textarea asp-for="updateBook.Description" class="form-control"></textarea>
+            <span asp-validation-for="updateBook.Description" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="updateBook.CategoryId"></label>
+            <select asp-for="updateBook.CategoryId" class="form-control">
+                <option value="">Select Category</option>
+                @foreach (var category in Model.Categories)
+                {
+                    var selected = category.CategoryId == Model.updateBook.CategoryId;
+                    <option selected="@selected" value="@category.CategoryId">
+                        @category.CategoryName
+                    </option>
+                }
+            </select>
+            <span asp-validation-for="updateBook.CategoryId" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="updateBook.Image"></label>
+            <div>
+                <img src="@Url.Content(@Model.updateBook.Image)" style="width: 50px; height: auto;" />
+            </div>
+            <input type="hidden" asp-for="updateBook.Image" />
+            <button type="button" class="btn btn-secondary mt-2" onclick="toggleImageInput()">Update Image</button>
+            <input asp-for="ImageFile" type="file" class="form-control mt-2" id="imageInput" style="display: none;" />
+            <span asp-validation-for="updateBook.Image" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="updateBook.Price"></label>
+            <input asp-for="updateBook.Price" class="form-control" />
+            <span asp-validation-for="updateBook.Price" class="text-danger"></span>
+        </div>
+
+        
+
+       
+
+        <div class="form-group">
+            <label asp-for="updateBook.RentalPrice"></label>
+            <input asp-for="updateBook.RentalPrice" class="form-control" />
+            <span asp-validation-for="updateBook.RentalPrice" class="text-danger"></span>
+        </div>
+
+         @* <div class="form-group form-check">
+             <input type="checkbox" class="form-check-input" name="updateBook.Status" value="true" @(Model.updateBook.Status == true ? "checked" : "") />
+             <input type="hidden" name="updateBook.Status" value="false" /> <!-- Hidden field for false -->
+             <label for="Status" class="form-check-label">Status</label>
+             <span asp-validation-for="updateBook.Status" class="text-danger"></span>
+         </div> *@
+
+        <div class="form-group">
+            <label asp-for="updateBook.Isbn"></label>
+            <input asp-for="updateBook.Isbn" class="form-control" />
+            <span asp-validation-for="updateBook.Isbn" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Update</button>
+    </form>
+</div>
+
+<script>
+    function toggleImageInput() {
+        var imageInput = document.getElementById("imageInput");
+        imageInput.style.display = imageInput.style.display === "none" ? "block" : "none";
+    }
+</script>

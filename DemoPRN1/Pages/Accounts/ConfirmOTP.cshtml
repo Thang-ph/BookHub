@@ -1,0 +1,102 @@
+﻿@page
+@model  DemoPRN1.Pages.Accounts.ConfirmOTPModel
+@{
+}
+@{
+    var otp = TempData["Otp"]?.ToString();
+    var email = TempData["newEmail"]?.ToString();
+    var password = TempData["newPassword"]?.ToString();
+    var fullname = TempData["newFullName"]?.ToString();
+    var phone = TempData["newPhoneNumber"]?.ToString();
+    var address = TempData["newAddress"]?.ToString();   
+}
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xác Minh OTP</title>
+    <link href="login.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <section class="vh-100">
+        <div class="container-fluid h-custom">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="col-md-9 col-lg-6 col-xl-5">
+                    <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.webp"
+                         class="img-fluid" alt="Sample image">
+                </div>
+                <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1">
+                    <form method="post">
+                        <div class="d-flex flex-row align-items-center justify-content-center justify-content-lg-start">
+                            <p class="lead fw-normal mb-0 me-3 bold" style="font-weight: bold;">Xác minh Email</p>
+                        </div>
+
+                        <div class="divider d-flex align-items-center my-4">
+                            <p class="text-center fw-bold mx-3 mb-0"></p>
+                        </div>
+
+                        <!-- OTP input -->
+                        <div data-mdb-input-init class="form-outline mb-4">
+                            <input asp-for="Input.ReOTP" type="number" id="form3Example3" class="form-control form-control-lg"
+                                   placeholder="Xác nhận mã OTP" />
+                            <span asp-validation-for="Input.ReOTP" class="text-danger"></span>
+                            <label class="form-label" for="form3Example3"></label>
+                        </div>
+                        <input asp-for ="Input.OTP"  type="hidden"  value="@otp" />
+                        <input asp-for="Input.Email"  type="hidden"  value="@email" />
+                        <input asp-for="Input.Password" type="hidden"  value="@password" />
+                        <input asp-for="Input.FullName" type="hidden"  value="@fullname" />
+                        <input asp-for="Input.PhoneNumber" type="hidden"  value="@phone" />
+                        <input asp-for="Input.Address"  type="hidden"  value="@address" />
+                        @{
+                              string GenerateOTP()
+                            {
+                                Random random = new Random();
+                                string otp = random.Next(100000, 999999).ToString();
+                                return otp;
+                            }
+                        }  
+                        @if (!ModelState.IsValid)
+                        {
+                            <div class="alert alert-danger">
+                                @foreach (var error in ModelState.Values.SelectMany(v => v.Errors))
+                                {
+                                    <p>@error.ErrorMessage</p>
+                                }
+                            </div>
+                        }
+                        <div class="d-flex justify-content-between align-items-center">
+                            <p class="small fw-bold mt-2 pt-1 mb-0">
+                                Bạn chưa nhận được mã xác minh? <a href="/Accounts/Register/SendOTPEmail?email=@email,otp=GenerateOTP()" class="link-danger">Gửi lại</a>
+                            </p>
+                        </div>
+
+                        <div class="text-center text-lg-start mt-4 pt-2">
+                            <button type="submit" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-lg"
+                                    style="padding-left: 2.5rem; padding-right: 2.5rem;">
+                                Xác nhận
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="d-flex flex-column flex-md-row text-center text-md-start justify-content-between py-4 px-4 px-xl-5 bg-primary">
+            <div class="text-white mb-3 mb-md-0">
+                Copyright © 2020. All rights reserved.
+            </div>
+            <div>
+                <a href="#!" class="text-white me-4"><i class="fab fa-facebook-f"></i></a>
+                <a href="#!" class="text-white me-4"><i class="fab fa-twitter"></i></a>
+                <a href="#!" class="text-white me-4"><i class="fab fa-google"></i></a>
+                <a href="#!" class="text-white"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

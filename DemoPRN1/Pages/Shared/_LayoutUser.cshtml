@@ -1,0 +1,339 @@
+﻿
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <title>BookSaw - Free Book Store HTML CSS Template</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="author" content="">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+
+    <link rel="stylesheet" type="text/css" href="~/css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="~/icomoon/icomoon.css">
+    <link rel="stylesheet" type="text/css" href="~/css/vendor.css">
+    <link rel="stylesheet" type="text/css" href="~/css/style.css">
+
+</head>
+
+<body data-bs-spy="scroll" data-bs-target="#header" tabindex="0">
+
+    <div id="header-wrap">
+
+        <header id="header">
+            <div class="container-fluid">
+                <div class="row">
+
+                    <div class="col-md-2">
+                        <div class="main-logo">
+                            <a asp-page="/Custommer/Home">
+                                <img src="~/images/main-logo.png" alt="logo">
+                            </a>
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-10">
+
+                        <nav id="navbar">
+                            <div class="main-menu stellarnav">
+                                <ul class="menu-list">
+                                    <div class="action-menu">
+                                        <div class="search-bar">
+                                            <a href="#" class="search-button search-toggle" data-selector="#header-wrap" onclick="redirectToBookDetail(event)">
+                                                <i class="icon icon-search"></i>
+                                            </a>
+                                            <form role="search" method="get" class="search-box" onsubmit="redirectToBookDetail(event)">
+                                                <input class="search-field text search-input" placeholder="Search" type="search" id="search-input">
+
+                                            </form>
+                                        </div>
+                                    </div>
+                                    <li class="menu-item has-sub">
+                                        <a href="#pages" class="nav-link active">Đầu mục</a>
+                                        <ul>
+                                            <li class="menu-item">
+                                                <a href="#billboard"
+                                                   class="nav-link">
+                                                    Top bán chạy
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="#featured-books"
+                                                   class="nav-link">
+                                                    Sách nổi bật
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="#popular-books" class="nav-link">Sách phổ biến</a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="#special-offer" class="nav-link">Flash sale</a>
+                                            </li>
+
+                                        </ul>
+
+                                    </li>
+
+
+                                    <li class="menu-item">
+                                        @if (Model.accounts != null)
+                                        {
+                                            <a href="@Url.Page("/Custommer/Cart")" class="cart for-buy">
+                                                <i class="icon icon-clipboard"></i>
+                                                <span>
+                                                    Giỏ hàng (@(TempData["CartCount"] ?? 0))
+                                                </span>
+                                            </a>
+                                        }else{
+                                            <a href="@Url.Page("/Accounts/Login")" class="cart for-buy">
+                                                <i class="icon icon-clipboard"></i>
+                                                <span>
+                                                    Giỏ hàng (@(TempData["CartCount"] ?? 0))
+                                                </span>
+                                            </a>
+                                        }
+                                    </li>
+
+                                    <li class="menu-item has-sub">
+                                        <a asp-page="@(Model.accounts != null ? "/Custommer/Profile" : "/Accounts/Login")"
+                                           class="nav-link btn btn-outline-dark rounded-pill m-0 icon icon-user">
+                                            <i class=""></i>
+                                            <span>@(Model.accounts != null ? Model.accounts.FullName : "Đăng nhập")</span>
+                                        </a>
+
+                                        @if (Model.accounts != null)
+                                        {
+                                        <ul>
+                                            <li class="menu-item">
+                                                <a asp-page="/Custommer/Profile">
+                                                    <i class=""></i><span>Tài khoản</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a asp-page="/Custommer/purchase">
+                                                    <i class=""></i><span>Lịch sử mua hàng</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a asp-page="/Custommer/Logout">
+                                                    <i class=""></i><span>Đăng xuất</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                        }
+                                    </li>
+                                </ul>
+
+                                <div class="hamburger">
+                                    <span class="bar"></span>
+                                    <span class="bar"></span>
+                                    <span class="bar"></span>
+                                </div>
+
+                            </div>
+                        </nav>
+
+                    </div>
+
+                </div>
+            </div>
+        </header>
+
+    </div><!--header-wrap-->
+    @RenderBody();
+    <footer id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="footer-item">
+                        <div class="company-brand">
+                            <img src="~/images/main-logo.png" alt="logo" class="footer-logo">
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sagittis sed ptibus liberolectus
+                                nonet psryroin. Amet sed lorem posuere sit iaculis amet, ac urna. Adipiscing fames
+                                semper erat ac in suspendisse iaculis.
+                            </p>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="col-md-2">
+
+                    <div class="footer-menu">
+                        <h5>About Us</h5>
+                        <ul class="menu-list">
+                            <li class="menu-item">
+                                <a href="#">vision</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">articles </a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">careers</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">service terms</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">donate</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+                <div class="col-md-2">
+
+                    <div class="footer-menu">
+                        <h5>Discover</h5>
+                        <ul class="menu-list">
+                            <li class="menu-item">
+                                <a href="#">Home</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">Books</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">Authors</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">Subjects</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">Advanced Search</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+                <div class="col-md-2">
+
+                    <div class="footer-menu">
+                        <h5>My account</h5>
+                        <ul class="menu-list">
+                            <li class="menu-item">
+                                <a href="#">Sign In</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">View Cart</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">My Wishtlist</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">Track My Order</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+                <div class="col-md-2">
+
+                    <div class="footer-menu">
+                        <h5>Help</h5>
+                        <ul class="menu-list">
+                            <li class="menu-item">
+                                <a href="#">Help center</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">Report a problem</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">Suggesting edits</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">Contact us</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+
+            </div>
+            <!-- / row -->
+
+        </div>
+    </footer>
+
+    <div id="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+
+                    <div class="copyright">
+                        <div class="row">
+
+                            <div class="col-md-6">
+                                <p>
+                                    © 2022 All rights reserved. Free HTML Template by
+                                    <a href="https://www.templatesjungle.com/" target="_blank">
+                                        TemplatesJungle
+                                    </a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="social-links align-right">
+                                    <ul>
+                                        <li>
+                                            <a href="#">
+                                                <i class="icon icon-facebook"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                <i class="icon icon-twitter"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                <i class="icon icon-youtube-play"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                <i class="icon icon-behance-square"></i>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div><!--grid-->
+
+                </div><!--footer-bottom-content-->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function redirectToBookDetail(event) {
+            event.preventDefault(); // Ngăn gửi yêu cầu form mặc định
+            const input = document.getElementById("search-input").value;
+
+            if (input) {
+                // Tạo URL Razor với tham số bookId từ input
+                const url = `@Url.Page("/Custommer/ListBook", new { searchString = "inputString" })`.replace("inputString", encodeURIComponent(input));
+                window.location.href = url;
+            }
+        }
+    </script>
+    <script src="~/js/jquery-1.11.0.min.js"></script>
+    <script src="~/https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
+            crossorigin="anonymous"></script>
+    <script src="~/js/plugins.js"></script>
+    <script src="~/js/script.js"></script>
+    <script src="~/https://cdn.payos.vn/payos-checkout/v1/stable/payos-initialize.js"></script>
+</body>
+
+</html>

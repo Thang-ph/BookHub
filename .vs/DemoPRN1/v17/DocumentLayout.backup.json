@@ -1,0 +1,1158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\custommer\\home.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\custommer\\home.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\accounts\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\accounts\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\custommer\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\custommer\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\custommer\\bookdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\custommer\\bookdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\custommer\\bookdetail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\custommer\\bookdetail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\bookstore\\books\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\bookstore\\books\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\bookstore\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\bookstore\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\admin\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\admin\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\bookstore\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\bookstore\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\admin\\bookstore\\bookstore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\admin\\bookstore\\bookstore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\bookstore\\books\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\bookstore\\books\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\admin\\wishlist\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\admin\\wishlist\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\models\\pjprn221context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\models\\pjprn221context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\bookstore\\books\\wishlistbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\bookstore\\books\\wishlistbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\custommer\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\custommer\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\custommer\\listbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\custommer\\listbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\custommer\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\custommer\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\custommer\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\custommer\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\bookstore\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\bookstore\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\bookstore\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\bookstore\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\models\\bookrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\models\\bookrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\custommer\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\custommer\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\accounts\\confirmotp.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\accounts\\confirmotp.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\custommer\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\custommer\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\custommer\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\custommer\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\custommer\\purchase.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\custommer\\purchase.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\custommer\\purchase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\custommer\\purchase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\demoprn1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\demoprn1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\wwwroot\\images\\main-logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\wwwroot\\images\\main-logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\wwwroot\\images\\item3.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\wwwroot\\images\\item3.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\wwwroot\\images\\google-play.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\wwwroot\\images\\google-play.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\wwwroot\\images\\item.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\wwwroot\\images\\item.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\wwwroot\\images\\app-store.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\wwwroot\\images\\app-store.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\wwwroot\\images\\book_img2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\wwwroot\\images\\book_img2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\wwwroot\\images\\book_img1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\wwwroot\\images\\book_img1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\admin\\categories\\createcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\admin\\categories\\createcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\admin\\categories\\updatecategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\admin\\categories\\updatecategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\accounts\\manageaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\accounts\\manageaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\accounts\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\accounts\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\accounts\\confirmotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\accounts\\confirmotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\accounts\\addadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\accounts\\addadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\accounts\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\accounts\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\custommer\\listbook.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\custommer\\listbook.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\pages\\admin\\categories\\viewcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\pages\\admin\\categories\\viewcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\models\\bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\models\\bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|c:\\users\\pham thang\\onedrive\\m\u00E1y t\u00EDnh\\fpt\\tai lieu\\hk8\\prn221\\finally we can meet in here\\bookstore_interface\\bookstore_interface\\demoprn1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56B7135-A1DB-423E-B0D5-7AAA630550BA}|DemoPRN1\\DemoPRN1.csproj|solutionrelative:demoprn1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProjectPRN221\\Bookstore_Interface\\DemoPRN1\\Pages\\Shared\\_LayoutCustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 69,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1377497384:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1928210406:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:350743133:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{588470cc-84f8-4a57-9ac4-86bca0625ff4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:95:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:96:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T02:14:58.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\Home.cshtml.cs",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Custommer\\Home.cshtml.cs",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\Home.cshtml.cs",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Custommer\\Home.cshtml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwDAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:10:51.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\BookDetail.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Custommer\\BookDetail.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\BookDetail.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Custommer\\BookDetail.cshtml",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAjwJ8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T15:05:31.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\Home.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Custommer\\Home.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\Home.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Custommer\\Home.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAQwHwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T14:07:28.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\BookStore\\Books\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\BookStore\\Books\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\BookStore\\Books\\Index.cshtml.cs",
+              "RelativeToolTip": "DemoPRN1\\Pages\\BookStore\\Books\\Index.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:47:12.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "DemoPRN1\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Models\\Book.cs",
+              "RelativeToolTip": "DemoPRN1\\Models\\Book.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:19:53.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoPRN1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\appsettings.json",
+              "RelativeToolTip": "DemoPRN1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T07:21:41.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookStore.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Admin\\BookStore\\BookStore.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Admin\\BookStore\\BookStore.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Admin\\BookStore\\BookStore.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Admin\\BookStore\\BookStore.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T15:00:43.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Shared\\_LayoutUser.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Shared\\_LayoutUser.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Shared\\_LayoutUser.cshtml",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAjwF8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T15:04:10.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Accounts\\Register.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Accounts\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Accounts\\Register.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Accounts\\Register.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T02:13:10.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\BookStore\\Books\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\BookStore\\Books\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\BookStore\\Books\\Create.cshtml.cs",
+              "RelativeToolTip": "DemoPRN1\\Pages\\BookStore\\Books\\Create.cshtml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAD4vzYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:37:01.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\BookStore\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\BookStore\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\BookStore\\Books\\Index.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\BookStore\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T14:56:02.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Accounts\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Accounts\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Accounts\\Register.cshtml.cs",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Accounts\\Register.cshtml.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAADwv1QAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:49:03.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookDetail.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\BookDetail.cshtml.cs",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Custommer\\BookDetail.cshtml.cs",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\BookDetail.cshtml.cs",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Custommer\\BookDetail.cshtml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:30:51.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Admin\\Wishlist\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Admin\\Wishlist\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Admin\\Wishlist\\Index.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Admin\\Wishlist\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAGQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T16:50:33.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Admin\\Wishlist\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Admin\\Wishlist\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Admin\\Wishlist\\Index.cshtml.cs",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Admin\\Wishlist\\Index.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAxwA8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:50:42.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\BookStore\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\BookStore\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\BookStore\\Books\\Create.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\BookStore\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T07:35:20.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PJPRN221Context.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Models\\PJPRN221Context.cs",
+              "RelativeDocumentMoniker": "DemoPRN1\\Models\\PJPRN221Context.cs",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Models\\PJPRN221Context.cs",
+              "RelativeToolTip": "DemoPRN1\\Models\\PJPRN221Context.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:23:16.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ListBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\ListBook.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Custommer\\ListBook.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\ListBook.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Custommer\\ListBook.cshtml",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAJgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T14:22:12.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\Profile.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Custommer\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\Profile.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Custommer\\Profile.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAG8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T15:07:41.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\Logout.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Custommer\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\Logout.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Custommer\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T15:07:40.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\Cart.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Custommer\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\Cart.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Custommer\\Cart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T14:40:05.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\BookStore\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\BookStore\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\BookStore\\Order\\Index.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\BookStore\\Order\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:31:39.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WishlistBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\BookStore\\Books\\WishlistBook.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\BookStore\\Books\\WishlistBook.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\BookStore\\Books\\WishlistBook.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\BookStore\\Books\\WishlistBook.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T08:04:20.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\BookStore\\Profile\\Profile.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\BookStore\\Profile\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\BookStore\\Profile\\Profile.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\BookStore\\Profile\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T08:30:35.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Bookrating.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Models\\Bookrating.cs",
+              "RelativeDocumentMoniker": "DemoPRN1\\Models\\Bookrating.cs",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Models\\Bookrating.cs",
+              "RelativeToolTip": "DemoPRN1\\Models\\Bookrating.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:32:09.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ConfirmOTP.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Accounts\\ConfirmOTP.cshtml.cs",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Accounts\\ConfirmOTP.cshtml.cs",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Accounts\\ConfirmOTP.cshtml.cs",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Accounts\\ConfirmOTP.cshtml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwEQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:49:11.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DemoPRN1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DemoPRN1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T06:25:11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DemoPRN1.csproj",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\DemoPRN1.csproj",
+              "RelativeDocumentMoniker": "DemoPRN1\\DemoPRN1.csproj",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\DemoPRN1.csproj",
+              "RelativeToolTip": "DemoPRN1\\DemoPRN1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-10T06:12:09.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "main-logo.png - PNG [216x31, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\wwwroot\\Images\\main-logo.png",
+              "RelativeDocumentMoniker": "DemoPRN1\\wwwroot\\Images\\main-logo.png",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\wwwroot\\Images\\main-logo.png - PNG [216x31, 32 bit, PNG]",
+              "RelativeToolTip": "DemoPRN1\\wwwroot\\Images\\main-logo.png - PNG [216x31, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-10T05:14:05.524Z",
+              "EditorCaption": " - PNG [216x31, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "item3.png - PNG [181x107, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\wwwroot\\Images\\item3.png",
+              "RelativeDocumentMoniker": "DemoPRN1\\wwwroot\\Images\\item3.png",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\wwwroot\\Images\\item3.png - PNG [181x107, 32 bit, PNG]",
+              "RelativeToolTip": "DemoPRN1\\wwwroot\\Images\\item3.png - PNG [181x107, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-10T05:14:04.518Z",
+              "EditorCaption": " - PNG [181x107, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "google-play.jpg - Bitmap [158x46, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\wwwroot\\Images\\google-play.jpg",
+              "RelativeDocumentMoniker": "DemoPRN1\\wwwroot\\Images\\google-play.jpg",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\wwwroot\\Images\\google-play.jpg - Bitmap [158x46, 24 bit, JPG]",
+              "RelativeToolTip": "DemoPRN1\\wwwroot\\Images\\google-play.jpg - Bitmap [158x46, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-10T05:14:03.781Z",
+              "EditorCaption": " - Bitmap [158x46, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "item.png - PNG [199x113, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\wwwroot\\Images\\item.png",
+              "RelativeDocumentMoniker": "DemoPRN1\\wwwroot\\Images\\item.png",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\wwwroot\\Images\\item.png - PNG [199x113, 32 bit, PNG]",
+              "RelativeToolTip": "DemoPRN1\\wwwroot\\Images\\item.png - PNG [199x113, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-10T05:14:03.152Z",
+              "EditorCaption": " - PNG [199x113, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "app-store.jpg - Bitmap [140x46, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\wwwroot\\Images\\app-store.jpg",
+              "RelativeDocumentMoniker": "DemoPRN1\\wwwroot\\Images\\app-store.jpg",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\wwwroot\\Images\\app-store.jpg - Bitmap [140x46, 24 bit, JPG]",
+              "RelativeToolTip": "DemoPRN1\\wwwroot\\Images\\app-store.jpg - Bitmap [140x46, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-10T05:14:01.393Z",
+              "EditorCaption": " - Bitmap [140x46, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Book_Img2.jpg - Bitmap [413x602, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\wwwroot\\Images\\Book_Img2.jpg",
+              "RelativeDocumentMoniker": "DemoPRN1\\wwwroot\\Images\\Book_Img2.jpg",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\wwwroot\\Images\\Book_Img2.jpg - Bitmap [413x602, 24 bit, JPG]",
+              "RelativeToolTip": "DemoPRN1\\wwwroot\\Images\\Book_Img2.jpg - Bitmap [413x602, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-10T05:13:54.983Z",
+              "EditorCaption": " - Bitmap [413x602, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Book_Img1.jpg - Bitmap [395x572, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\wwwroot\\Images\\Book_Img1.jpg",
+              "RelativeDocumentMoniker": "DemoPRN1\\wwwroot\\Images\\Book_Img1.jpg",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\wwwroot\\Images\\Book_Img1.jpg - Bitmap [395x572, 24 bit, JPG]",
+              "RelativeToolTip": "DemoPRN1\\wwwroot\\Images\\Book_Img1.jpg - Bitmap [395x572, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-10T05:13:53.16Z",
+              "EditorCaption": " - Bitmap [395x572, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ManageAccount.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Accounts\\ManageAccount.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Accounts\\ManageAccount.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Accounts\\ManageAccount.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Accounts\\ManageAccount.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T04:10:16.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Accounts\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Accounts\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Accounts\\ForgotPassword.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Accounts\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T04:10:14.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AddAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Accounts\\AddAdmin.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Accounts\\AddAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Accounts\\AddAdmin.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Accounts\\AddAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T04:10:13.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Accounts\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Accounts\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Accounts\\Login.cshtml.cs",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Accounts\\Login.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T04:06:55.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Accounts\\Login.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Accounts\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Accounts\\Login.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Accounts\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T04:06:53.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CreateCategories.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Admin\\Categories\\CreateCategories.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Admin\\Categories\\CreateCategories.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Admin\\Categories\\CreateCategories.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Admin\\Categories\\CreateCategories.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T08:36:44.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ViewCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Admin\\Categories\\ViewCategory.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Admin\\Categories\\ViewCategory.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Admin\\Categories\\ViewCategory.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Admin\\Categories\\ViewCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T08:04:14.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UpdateCategories.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Admin\\Categories\\UpdateCategories.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Admin\\Categories\\UpdateCategories.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Admin\\Categories\\UpdateCategories.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Admin\\Categories\\UpdateCategories.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T08:04:13.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Bookstore.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Models\\Bookstore.cs",
+              "RelativeDocumentMoniker": "DemoPRN1\\Models\\Bookstore.cs",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Models\\Bookstore.cs",
+              "RelativeToolTip": "DemoPRN1\\Models\\Bookstore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:42:18.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Custommer\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\Register.cshtml.cs",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Custommer\\Register.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:37:06.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Program.cs",
+              "RelativeDocumentMoniker": "DemoPRN1\\Program.cs",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Program.cs",
+              "RelativeToolTip": "DemoPRN1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:24:14.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ConfirmOTP.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Accounts\\ConfirmOTP.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Accounts\\ConfirmOTP.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Accounts\\ConfirmOTP.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Accounts\\ConfirmOTP.cshtml",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAQwDgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T15:10:17.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\Register.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Custommer\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\Register.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Custommer\\Register.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAWwDcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T15:08:40.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "D:\\ProjectPRN221\\Bookstore_Interface\\DemoPRN1\\Pages\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "D:\\ProjectPRN221\\Bookstore_Interface\\DemoPRN1\\Pages\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AQIAACABAAAAAAAAAAAgwD8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T14:59:10.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Cart.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\Cart.cshtml.cs",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Custommer\\Cart.cshtml.cs",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\Cart.cshtml.cs",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Custommer\\Cart.cshtml.cs",
+              "ViewState": "AQIAAHEAAAAANjMzM3MjwH0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:56:12.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ListBook.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\ListBook.cshtml.cs",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Custommer\\ListBook.cshtml.cs",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\ListBook.cshtml.cs",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Custommer\\ListBook.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:20:46.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Purchase.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\Purchase.cshtml.cs",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Custommer\\Purchase.cshtml.cs",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\Purchase.cshtml.cs",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Custommer\\Purchase.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:11:23.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Purchase.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\Purchase.cshtml",
+              "RelativeDocumentMoniker": "DemoPRN1\\Pages\\Custommer\\Purchase.cshtml",
+              "ToolTip": "C:\\Users\\Pham Thang\\OneDrive\\M\u00E1y t\u00EDnh\\FPT\\Tai Lieu\\HK8\\PRN221\\Finally we can meet in here\\Bookstore_Interface\\Bookstore_Interface\\DemoPRN1\\Pages\\Custommer\\Purchase.cshtml",
+              "RelativeToolTip": "DemoPRN1\\Pages\\Custommer\\Purchase.cshtml",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAAHYAAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T14:10:36.088Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 97,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
